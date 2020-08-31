@@ -1,0 +1,13 @@
+Rod's Mini Assembler Tool
+
+	- Mini Assembler can now specify the input file with the argument "-f" and the output file with "-o".
+
+	- Mini Assembler can interpret a source file written in hexadecimal, and create  a binary file representing the hexadecimal.
+
+	- Hexadecimal chars can be written in upper case / lower case.
+
+	- Compiler checks for non allowed characters in the source file, giving an error.
+
+	- Spaces, tabs and newlines on the source are ignored.
+
+	- Function view a binary file in binary and hexadeciaml created, printing to stdout.
